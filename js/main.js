@@ -1,4 +1,12 @@
 document.addEventListener('DOMContentLoaded', async () => {
+    console.log('%c' + `
+███╗   ██╗██╗   ██╗██████╗ ██████╗ ██╗███╗   ██╗███████╗
+████╗  ██║╚██╗ ██╔╝██╔══██╗██╔══██╗██║████╗  ██║██╔════╝
+██╔██╗ ██║ ╚████╔╝ ██████╔╝██████╔╝██║██╔██╗ ██║█████╗  
+██║╚██╗██║  ╚██╔╝  ██╔══██╗██╔══██╗██║██║╚██╗██║██╔══╝  
+██║ ╚████║   ██║   ██║  ██║██║  ██║██║██║ ╚████║███████╗
+╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝`, 'color: #FFB6C1; font-family: monospace; font-size: 12px; font-weight: bold;');
+    console.log('%cContact me on Discord if there\'s any issues with this website!', 'color: #FFB6C1; font-size: 12px;');
     if (window.languageManager) {
         await window.languageManager.init();
     }
