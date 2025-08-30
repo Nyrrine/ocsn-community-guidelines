@@ -1,0 +1,138 @@
+{
+  "langName": "Português",
+  "langCode": "pt",
+  "dir": "ltr",
+  
+  "nav": {
+    "searchPlaceholder": "Pesquisar nas diretrizes",
+    "overview": "Visão Geral",
+    "authenticity": "Autenticidade em Primeiro Lugar",
+    "safety": "Padrões de Segurança",
+    "explicitContent": "Conteúdo Explícito",
+    "matureContent": "Diretrizes de Conteúdo Maduro",
+    "illegalContent": "Conteúdo Ilegal",
+    "harmfulGroups": "Grupos Prejudiciais",
+    "illegalActivities": "Atividades Ilegais",
+    "respect": "Respeito à Comunidade",
+    "threatsHarassment": "Ameaças e Assédio",
+    "bullying": "Política Anti-Bullying",
+    "discrimination": "Discriminação",
+    "selfHarm": "Automutilação",
+    "deception": "Práticas Proibidas",
+    "help": "Denunciar Violações"
+  },
+  
+  "search": {
+    "noResults": "Nenhum resultado encontrado para",
+    "searching": "Pesquisando...",
+    "clearSearch": "Limpar pesquisa"
+  },
+  
+  "title": "Diretrizes da Comunidade OCSN",
+  
+  "overview": {
+    "title": "Visão Geral",
+    "mainText": "OCSN é um lugar seguro e autêntico para comunidades de fandoms e personagens originais. Precisamos da sua ajuda para promover uma cultura gentil e criativa. No OCSN, respeitamos todos — se você vir conteúdo que viole estas diretrizes, por favor, denuncie para nós em nosso servidor oficial do Discord.",
+    "intro": "OCSN reflete as diversas maneiras pelas quais fãs e criadores se expressam online. Aqui estão as maneiras pelas quais todos podem aproveitar sua experiência aqui.",
+    "agreement": "Ao usar o OCSN, você concorda com estas diretrizes e nossos Termos de Serviço. Não seguir esses limites pode resultar em conteúdo excluído, contas desativadas ou outras restrições.",
+    "guidelines": "Siga estas diretrizes para uma experiência segura e agradável no OCSN. Em todas as circunstâncias, reservamo-nos o direito de determinar qual conteúdo não é permitido no aplicativo."
+  },
+  
+  "authenticity": {
+    "title": "Autenticidade em Primeiro Lugar",
+    "intro": "OCSN é uma rede social construída para fandoms e personagens originais. É um espaço para criatividade humana autêntica e autoexpressão genuína. Para manter nossa comunidade fiel ao seu espírito, não permitimos conteúdo de IA generativa de qualquer tipo, incluindo texto, imagens, áudio ou vídeo. Se você postar conteúdo gerado por IA, receberá um aviso, e violações repetidas resultarão em banimento."
+  },
+  
+  "safety": {
+    "title": "Padrões de Segurança",
+    "intro": "Os seguintes tipos de conteúdo são estritamente proibidos no OCSN. Postar qualquer um deles resultará na remoção do conteúdo e pode levar à suspensão da conta ou banimento permanente:",
+    "explicit": {
+      "title": "Conteúdo Explícito",
+      "text": "Não permitimos nenhum conteúdo pornográfico ou sexualmente explícito no OCSN. Se você postar este conteúdo, será banido."
+    },
+    "mature": {
+      "title": "Diretrizes de Conteúdo Maduro",
+      "text": "Conteúdo maduro em uma história de roleplay pode incluir alguns elementos maduros (como violência, romance ou cenas de sexo) é permitido, mas o propósito não pode ser totalmente explícito ou para estimulação sexual."
+    },
+    "illegal": {
+      "title": "Conteúdo Ilegal",
+      "text": "De acordo com a Lei Americana, o OCSN proíbe explicitamente qualquer conteúdo que descreva atos sexuais ilegais, incluindo, mas não se limitando a, bestialidade, necrofilia, incesto ou material de exploração e abuso sexual infantil. Tal conteúdo será removido e você será banido."
+    },
+    "harmful": {
+      "title": "Grupos Prejudiciais",
+      "text": "OCSN não é uma plataforma para apoiar ou elogiar terrorismo, crime organizado ou grupos de ódio."
+    },
+    "activities": {
+      "title": "Atividades Ilegais",
+      "text": "Não use o OCSN para atividades ilegais como postar pornografia de vingança, oferecer serviços sexuais, comprar ou vender armas de fogo, álcool e produtos de tabaco entre indivíduos privados, ou comprar e vender drogas ilegais ou de prescrição (mesmo se legal em sua região)."
+    }
+  },
+  
+  "respect": {
+    "title": "Respeito à Comunidade",
+    "intro": "Estamos comprometidos em manter um ambiente respeitoso e seguro para todos os membros da nossa comunidade. Tratar os outros com gentileza e respeito é fundamental para os valores do OCSN.",
+    "threats": {
+      "title": "Ameaças Críveis e Assédio Direcionado",
+      "text": "Removemos conteúdo que contém ameaças críveis ou discurso de ódio, conteúdo que visa indivíduos privados para degradá-los ou envergonhá-los, e informações pessoais destinadas a chantagear ou assediar alguém. Isso inclui ameaças de morte, desejos de mal, encorajar suicídio, ameaçar divulgar informações privadas e campanhas direcionadas para denunciar em massa ou atacar usuários específicos.",
+      "note": "Críticas construtivas e desacordos respeitosos são bem-vindos em nossa plataforma. Se você encontrar conteúdo com o qual não concorda, sempre pode bloquear ou deixar de seguir usuários em vez de se envolver em assédio."
+    },
+    "bullying": {
+      "title": "Bullying e Assédio Coordenado",
+      "text": "Temos uma política de tolerância zero para bullying ou assédio. Isso inclui contato repetido não desejado após ser solicitado a parar, criar contas especificamente para assediar ou evitar bloqueios, compartilhar capturas de tela para zombar ou humilhar outros usuários e encorajar outros a assediar ou \"cancelar\" alguém.",
+      "consequences": "Contas encontradas participando de campanhas de assédio coordenado serão permanentemente banidas. Levamos a sério a saúde mental e a segurança de nossos usuários."
+    },
+    "discrimination": {
+      "title": "Características Protegidas e Discurso de Ódio",
+      "text": "Nunca é aceitável encorajar violência ou discriminação com base em raça, etnia, origem nacional, sexo, gênero, identidade de gênero, orientação sexual, afiliação religiosa, deficiências ou doenças. Isso inclui insultos, linguagem desumanizante, estereótipos prejudiciais e zombar ou atacar pessoas com base nessas características protegidas.",
+      "positive": "Celebramos a diversidade e encorajamos discussões respeitosas sobre questões sociais, compartilhamento de experiências pessoais e conteúdo educacional que promove compreensão e inclusão."
+    },
+    "selfharm": {
+      "title": "Automutilação e Conteúdo Perigoso",
+      "text": "A glorificação da automutilação ou lesão é proibida. Isso inclui representações gráficas ou instruções para automutilação, promoção de distúrbios alimentares e métodos perigosos de perda de peso. Embora entendamos que a expressão criativa pode tocar em tópicos difíceis, devemos priorizar a segurança do usuário.",
+      "support": "Encorajamos histórias de recuperação, busca de apoio e expressão artística que não glorifique o mal. Nossa plataforma é um lugar para cura e crescimento.",
+      "helpTitle": "Se você ou alguém que você conhece precisa de ajuda:",
+      "crisisText": "Linha de Texto de Crise: Envie HOME para 741741",
+      "suicidePrevention": "Linha Nacional de Prevenção ao Suicídio: 988",
+      "internationalHelp": "Ajuda Internacional: Encontre apoio em seu país",
+      "eatingDisorders": "Distúrbios Alimentares: 1-800-931-2237"
+    }
+  },
+  
+  "deception": {
+    "title": "Práticas Proibidas",
+    "impersonation": {
+      "title": "Falsificação de Identidade",
+      "text": "Criar contas ou conteúdo que se faça passar por outra pessoa, marca ou entidade de maneira enganosa ou fraudulenta é estritamente proibido. Isso inclui usar o nome, imagem ou outras informações de identificação de outra pessoa sem permissão."
+    },
+    "doxxing": {
+      "title": "Doxxing e Informações Pessoais",
+      "text": "Nunca compartilhe informações pessoais que não sejam suas. Doxxing - o ato de publicar informações privadas ou de identificação sobre alguém sem seu consentimento - é estritamente proibido. Isso inclui:",
+      "item1": "Nomes reais de usuários que não os compartilharam publicamente",
+      "item2": "Endereços residenciais, números de telefone ou endereços de e-mail",
+      "item3": "Informações financeiras ou números de identificação governamental",
+      "item4": "Fotos ou vídeos privados sem consentimento",
+      "item5": "Informações sobre o local de trabalho ou escola de alguém"
+    },
+    "misinformation": {
+      "title": "Conteúdo Enganoso",
+      "text": "Qualquer conteúdo enganoso ou notícias falsas de natureza maliciosa será excluído do OCSN. Isso inclui espalhar deliberadamente informações falsas que possam causar danos a indivíduos ou grupos."
+    },
+    "spam": {
+      "title": "Spam",
+      "text": "Spam e outras práticas manipulativas são proibidas. Isso inclui postagens repetitivas, mensagens em massa, manipulação artificial de engajamento e usar o OCSN principalmente para publicidade comercial sem ser transparente sobre isso."
+    }
+  },
+  
+  "help": {
+    "title": "Denunciar Violações",
+    "intro": "Cada um de nós é uma parte importante da comunidade OCSN. Se você vir algo que acha que pode violar nossas diretrizes, por favor, ajude-nos denunciando.",
+    "disagreement": "Você pode encontrar conteúdo que não é do seu agrado, mas que não viola as Diretrizes da Comunidade. Se isso acontecer, você pode deixar de seguir ou bloquear a pessoa que o postou.",
+    "reporting": {
+      "title": "Como Denunciar",
+      "text": "Quando você completar a denúncia, tente fornecer o máximo de informações possível — links, nomes de usuário e descrições do conteúdo — para que possamos encontrá-lo e revisá-lo rapidamente. Podemos remover postagens inteiras se as imagens ou legendas associadas violarem nossas diretrizes.",
+      "instructions": "Instruções detalhadas passo a passo para denúncias serão adicionadas aqui em breve."
+    },
+    "thanks": "Obrigado por nos ajudar a criar uma das comunidades mais criativas e acolhedoras do mundo!",
+    "signature": "— A Equipe OCSN"
+  }
+}

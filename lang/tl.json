@@ -1,0 +1,138 @@
+{
+  "langName": "Tagalog",
+  "langCode": "tl",
+  "dir": "ltr",
+  
+  "nav": {
+    "searchPlaceholder": "Maghanap sa mga alituntunin",
+    "overview": "Pangkalahatang-ideya",
+    "authenticity": "Katotohanan Muna",
+    "safety": "Mga Pamantayan sa Kaligtasan",
+    "explicitContent": "Lantarang Nilalaman",
+    "matureContent": "Mga Alituntunin sa Nilalaman para sa Matatanda",
+    "illegalContent": "Iligal na Nilalaman",
+    "harmfulGroups": "Mapanganib na Grupo",
+    "illegalActivities": "Iligal na Gawain",
+    "respect": "Paggalang sa Komunidad",
+    "threatsHarassment": "Mga Banta at Panliligalig",
+    "bullying": "Patakaran Laban sa Pambubully",
+    "discrimination": "Diskriminasyon",
+    "selfHarm": "Pagsakit sa Sarili",
+    "deception": "Mga Bawal na Gawain",
+    "help": "Iulat ang mga Paglabag"
+  },
+  
+  "search": {
+    "noResults": "Walang resulta para sa",
+    "searching": "Naghahanap...",
+    "clearSearch": "Burahin ang paghahanap"
+  },
+  
+  "title": "Mga Alituntunin ng Komunidad ng OCSN",
+  
+  "overview": {
+    "title": "Pangkalahatang-ideya",
+    "mainText": "Ang OCSN ay isang ligtas at tunay na lugar para sa mga komunidad ng fandom at mga orihinal na karakter. Kailangan namin ang iyong tulong upang mapalago ang isang mabait at malikhain na kultura. Sa OCSN, iginagalang namin ang lahat — kung makakita ka ng nilalaman na lumalabag sa mga alituntuning ito, mangyaring iulat ito sa amin sa aming opisyal na Discord server.",
+    "intro": "Ang OCSN ay sumasalamin sa iba't ibang paraan ng pagpapahayag ng mga fans at creators online. Narito ang mga paraan kung paano masisiyahan ang lahat sa kanilang karanasan dito.",
+    "agreement": "Sa paggamit ng OCSN, sumasang-ayon ka sa mga alituntuning ito at sa aming Mga Tuntunin ng Serbisyo. Ang hindi pagsunod sa mga hangganan na ito ay maaaring magresulta sa natanggal na nilalaman, mga hindi pinagana na account, o iba pang mga paghihigpit.",
+    "guidelines": "Sundin ang mga alituntuning ito para sa isang ligtas at kasiya-siyang karanasan sa OCSN. Sa lahat ng pagkakataon, nakalaan sa amin ang karapatan na tukuyin kung anong nilalaman ang hindi pinapayagan sa app."
+  },
+  
+  "authenticity": {
+    "title": "Katotohanan Muna",
+    "intro": "Ang OCSN ay isang social network na ginawa para sa mga fandom at orihinal na karakter. Ito ay espasyo para sa tunay na pagkamalikhain ng tao at tunay na pagpapahayag ng sarili. Upang panatilihing totoo ang aming komunidad sa diwa nito, hindi namin pinapayagan ang generative AI content ng anumang uri, kabilang ang teksto, mga larawan, audio, o video. Kung mag-post ka ng content na ginawa ng AI, makakatanggap ka ng babala, at ang paulit-ulit na paglabag ay magreresulta sa pagbabawal."
+  },
+  
+  "safety": {
+    "title": "Mga Pamantayan sa Kaligtasan",
+    "intro": "Ang mga sumusunod na uri ng nilalaman ay mahigpit na ipinagbabawal sa OCSN. Ang pag-post ng alinman sa mga ito ay magreresulta sa pagtanggal ng nilalaman at maaaring humantong sa pagsuspinde ng account o permanenteng pagbabawal:",
+    "explicit": {
+      "title": "Lantarang Nilalaman",
+      "text": "Hindi namin pinapayagan ang anumang pornograpiko o sekswal na lantarang nilalaman sa OCSN. Kung mag-post ka ng ganitong nilalaman, ikaw ay ipagbabawal."
+    },
+    "mature": {
+      "title": "Mga Alituntunin sa Nilalaman para sa Matatanda",
+      "text": "Ang nilalaman para sa matatanda sa isang storyline ng roleplaying ay maaaring magsama ng ilang elemento para sa matatanda (tulad ng karahasan, romansa o mga eksena ng seks) ay pinapayagan, ngunit ang layunin ay hindi maaaring ganap na lantad o para sa sekswal na stimulasyon."
+    },
+    "illegal": {
+      "title": "Iligal na Nilalaman",
+      "text": "Alinsunod sa Batas ng Amerika, ang OCSN ay tahasang nagbabawal ng anumang nilalaman na naglalarawan ng mga iligal na sekswal na gawain kabilang ang, ngunit hindi limitado sa, bestiality, necrophilia, incest, o materyal na pagsasamantala at pang-aabuso sa bata. Ang ganitong nilalaman ay tatanggalin at ikaw ay ipagbabawal."
+    },
+    "harmful": {
+      "title": "Mapanganib na Grupo",
+      "text": "Ang OCSN ay hindi isang platform upang suportahan o papurihan ang terorismo, organisadong krimen, o mga grupo ng pagkakapoot."
+    },
+    "activities": {
+      "title": "Iligal na Gawain",
+      "text": "Huwag gamitin ang OCSN para sa mga iligal na gawain tulad ng pag-post ng revenge porn, pag-aalok ng mga sekswal na serbisyo, pagbili o pagbebenta ng mga baril, alak, at mga produkto ng tabako sa pagitan ng mga pribadong indibidwal, o pagbili at pagbebenta ng mga iligal o reseta na gamot (kahit na legal sa iyong rehiyon)."
+    }
+  },
+  
+  "respect": {
+    "title": "Paggalang sa Komunidad",
+    "intro": "Nakatuon kami sa pagpapanatili ng isang magalang at ligtas na kapaligiran para sa lahat ng miyembro ng aming komunidad. Ang pagtrato sa iba ng may kabaitan at paggalang ay pangunahing sa mga halaga ng OCSN.",
+    "threats": {
+      "title": "Mga Kapani-paniwalang Banta at Targetadong Panliligalig",
+      "text": "Tinatanggal namin ang nilalaman na naglalaman ng mga kapani-paniwalang banta o hate speech, nilalaman na nagta-target sa mga pribadong indibidwal upang hamakin o hiyain sila, at personal na impormasyon na nilalayong i-blackmail o ligaligin ang isang tao. Kabilang dito ang mga banta sa kamatayan, mga hangarin ng pinsala, paghikayat sa pagpapakamatay, pagbabanta na ilabas ang pribadong impormasyon, at mga targetadong kampanya para sa mass report o brigade laban sa mga partikular na user.",
+      "note": "Ang konstruktibong kritisismo at magalang na hindi pagkakasundo ay malugod na tinatanggap sa aming platform. Kung makakita ka ng nilalaman na hindi mo sinasang-ayunan, palagi mong maaaring i-block o i-unfollow ang mga user sa halip na makipagtalo sa panliligalig."
+    },
+    "bullying": {
+      "title": "Pambubully at Koordinadong Panliligalig",
+      "text": "Mayroon kaming zero-tolerance policy para sa pambubully o panliligalig. Kabilang dito ang paulit-ulit na hindi gustong pakikipag-ugnayan pagkatapos hilingin na tumigil, paggawa ng mga account partikular upang mang-harass o umiwas sa mga block, pagbabahagi ng mga screenshot upang kutya o hiyain ang ibang mga user, at paghikayat sa iba na mang-harass o \"kanselahin\" ang isang tao.",
+      "consequences": "Ang mga account na nakikibahagi sa mga koordinadong kampanya ng panliligalig ay permanenteng ipagbabawal. Sineseryoso namin ang mental health at kaligtasan ng aming mga user."
+    },
+    "discrimination": {
+      "title": "Mga Protektadong Katangian at Hate Speech",
+      "text": "Hindi kailanman OK na hikayatin ang karahasan o diskriminasyon batay sa lahi, etnisidad, bansang pinagmulan, kasarian, gender, pagkakakilanlan ng kasarian, oryentasyong sekswal, relihiyosong kaakibatan, mga kapansanan, o mga sakit. Kabilang dito ang mga panlalait, nakakapinsalang wika, mga nakakapinsalang stereotype, at pangungutya o pag-atake sa mga tao batay sa mga protektadong katangiang ito.",
+      "positive": "Ipinagdiriwang namin ang pagkakaiba-iba at hinihikayat ang magalang na mga talakayan tungkol sa mga isyung panlipunan, pagbabahagi ng mga personal na karanasan, at nilalaman na pang-edukasyon na nagtataguyod ng pag-unawa at pagsasama."
+    },
+    "selfharm": {
+      "title": "Pagsakit sa Sarili at Mapanganib na Nilalaman",
+      "text": "Ang pagpupuri sa pagsakit sa sarili o pinsala ay ipinagbabawal. Kabilang dito ang mga graphic na paglalarawan o tagubilin para sa pagsakit sa sarili, pagtataguyod ng mga eating disorder, at mga mapanganib na paraan ng pagbaba ng timbang. Bagaman nauunawaan namin na ang creative expression ay maaaring humawak sa mga mahirap na paksa, dapat naming unahin ang kaligtasan ng user.",
+      "support": "Hinihikayat namin ang mga kuwento ng pagbangon, paghahanap ng suporta, at artistic expression na hindi nagpupuri sa pinsala. Ang aming platform ay isang lugar para sa paggaling at paglaki.",
+      "helpTitle": "Kung ikaw o isang taong kilala mo ay nangangailangan ng tulong:",
+      "crisisText": "Crisis Text Line: I-text ang HOME sa 741741",
+      "suicidePrevention": "National Suicide Prevention Lifeline: 988",
+      "internationalHelp": "International Help: Humanap ng suporta sa iyong bansa",
+      "eatingDisorders": "Eating Disorders: 1-800-931-2237"
+    }
+  },
+  
+  "deception": {
+    "title": "Mga Bawal na Gawain",
+    "impersonation": {
+      "title": "Pagpapanggap",
+      "text": "Ang paggawa ng mga account o nilalaman na nagpapanggap na ibang tao, tatak, o entidad sa isang nakakalito o mapanlinlang na paraan ay mahigpit na ipinagbabawal. Kabilang dito ang paggamit ng pangalan, larawan, o iba pang pagkakakilanlang impormasyon ng ibang tao nang walang pahintulot."
+    },
+    "doxxing": {
+      "title": "Doxxing at Personal na Impormasyon",
+      "text": "Huwag kailanman magbahagi ng personal na impormasyon na hindi sa iyo. Ang doxxing - ang pagkilos ng paglalathala ng pribado o pagkakakilanlang impormasyon tungkol sa isang tao nang walang pahintulot nila - ay mahigpit na ipinagbabawal. Kabilang dito:",
+      "item1": "Mga tunay na pangalan ng mga user na hindi pa nila ibinahagi sa publiko",
+      "item2": "Mga address ng bahay, numero ng telepono, o email address",
+      "item3": "Pinansyal na impormasyon o mga numero ng ID ng gobyerno",
+      "item4": "Mga pribadong larawan o video nang walang pahintulot",
+      "item5": "Impormasyon tungkol sa lugar ng trabaho o paaralan ng isang tao"
+    },
+    "misinformation": {
+      "title": "Mapanlinlang na Nilalaman",
+      "text": "Anumang mapanlinlang na nilalaman o maling balita na may masamang layunin ay tatanggalin sa OCSN. Kabilang dito ang sadyang pagpapalaganap ng maling impormasyon na maaaring magdulot ng pinsala sa mga indibidwal o grupo."
+    },
+    "spam": {
+      "title": "Spam",
+      "text": "Ang spam at iba pang manipulatibong gawain ay ipinagbabawal. Kabilang dito ang paulit-ulit na pag-post, mass messaging, artipisyal na pagmamanipula ng engagement, at paggamit ng OCSN pangunahin para sa komersyal na advertising nang hindi pagiging transparent tungkol dito."
+    }
+  },
+  
+  "help": {
+    "title": "Iulat ang mga Paglabag",
+    "intro": "Bawat isa sa atin ay mahalagang bahagi ng komunidad ng OCSN. Kung makakita ka ng isang bagay na sa tingin mo ay maaaring lumalabag sa aming mga alituntunin, mangyaring tulungan kami sa pamamagitan ng pag-ulat nito.",
+    "disagreement": "Maaari kang makahanap ng nilalaman na hindi mo gusto, ngunit hindi lumalabag sa Mga Alituntunin ng Komunidad. Kung mangyari ito, maaari mong i-unfollow o i-block ang taong nag-post nito.",
+    "reporting": {
+      "title": "Paano Mag-ulat",
+      "text": "Kapag kumpleto mo ang ulat, subukang magbigay ng maraming impormasyon hangga't maaari — mga link, username, at mga paglalarawan ng nilalaman — upang mabilis naming mahanap at masuri ito. Maaari naming tanggalin ang buong post kung ang mga larawan o mga nauugnay na caption ay lumalabag sa aming mga alituntunin.",
+      "instructions": "Ang detalyadong hakbang-hakbang na mga tagubilin sa pag-uulat ay malapit nang idagdag dito."
+    },
+    "thanks": "Salamat sa pagtulong sa amin na lumikha ng isa sa pinaka-creative at malugod na komunidad sa mundo!",
+    "signature": "— Ang OCSN Team"
+  }
+}

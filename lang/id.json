@@ -1,0 +1,138 @@
+{
+  "langName": "Bahasa Indonesia",
+  "langCode": "id",
+  "dir": "ltr",
+  
+  "nav": {
+    "searchPlaceholder": "Cari pedoman",
+    "overview": "Ikhtisar",
+    "authenticity": "Keaslian Utama",
+    "safety": "Standar Keamanan",
+    "explicitContent": "Konten Eksplisit",
+    "matureContent": "Pedoman Konten Dewasa",
+    "illegalContent": "Konten Ilegal",
+    "harmfulGroups": "Kelompok Berbahaya",
+    "illegalActivities": "Aktivitas Ilegal",
+    "respect": "Menghormati Komunitas",
+    "threatsHarassment": "Ancaman dan Pelecehan",
+    "bullying": "Kebijakan Anti-Perundungan",
+    "discrimination": "Diskriminasi",
+    "selfHarm": "Menyakiti Diri Sendiri",
+    "deception": "Praktik Terlarang",
+    "help": "Laporkan Pelanggaran"
+  },
+  
+  "search": {
+    "noResults": "Tidak ada hasil untuk",
+    "searching": "Mencari...",
+    "clearSearch": "Hapus pencarian"
+  },
+  
+  "title": "Pedoman Komunitas OCSN",
+  
+  "overview": {
+    "title": "Ikhtisar",
+    "mainText": "OCSN adalah tempat yang aman dan autentik untuk komunitas fandom dan karakter original. Kami membutuhkan bantuan Anda untuk membina budaya yang baik dan kreatif. Di OCSN, kami menghormati semua orang — jika Anda melihat konten yang melanggar pedoman ini, silakan laporkan kepada kami di server Discord resmi kami.",
+    "intro": "OCSN mencerminkan beragam cara fans dan kreator mengekspresikan diri secara online. Berikut adalah cara agar semua orang dapat menikmati pengalaman mereka di sini.",
+    "agreement": "Dengan menggunakan OCSN, Anda menyetujui pedoman ini dan Ketentuan Layanan kami. Tidak mengikuti batasan ini dapat mengakibatkan konten dihapus, akun dinonaktifkan, atau pembatasan lainnya.",
+    "guidelines": "Ikuti pedoman ini untuk pengalaman yang aman dan menyenangkan di OCSN. Dalam segala keadaan, kami berhak menentukan konten apa yang tidak diizinkan di aplikasi."
+  },
+  
+  "authenticity": {
+    "title": "Keaslian Utama",
+    "intro": "OCSN adalah jaringan sosial yang dibangun untuk fandom dan karakter original. Ini adalah ruang untuk kreativitas manusia yang autentik dan ekspresi diri yang tulus. Untuk menjaga komunitas kami tetap setia pada semangatnya, kami tidak mengizinkan konten AI generatif dalam bentuk apa pun, termasuk teks, gambar, audio, atau video. Jika Anda memposting konten yang dihasilkan AI, Anda akan menerima peringatan, dan pelanggaran berulang akan mengakibatkan larangan."
+  },
+  
+  "safety": {
+    "title": "Standar Keamanan",
+    "intro": "Jenis konten berikut sangat dilarang di OCSN. Memposting salah satu dari ini akan mengakibatkan penghapusan konten dan dapat menyebabkan penangguhan akun atau larangan permanen:",
+    "explicit": {
+      "title": "Konten Eksplisit",
+      "text": "Kami tidak mengizinkan konten pornografi atau seksual eksplisit apa pun di OCSN. Jika Anda memposting konten ini, Anda akan dilarang."
+    },
+    "mature": {
+      "title": "Pedoman Konten Dewasa",
+      "text": "Konten dewasa dalam alur cerita roleplay mungkin mencakup beberapa elemen dewasa (seperti kekerasan, romansa atau adegan seks) diperbolehkan, tetapi tujuannya tidak boleh sepenuhnya eksplisit atau untuk stimulasi seksual."
+    },
+    "illegal": {
+      "title": "Konten Ilegal",
+      "text": "Sesuai dengan Hukum Amerika, OCSN secara eksplisit melarang konten apa pun yang menggambarkan tindakan seks ilegal termasuk, tetapi tidak terbatas pada, bestialitas, nekrofilia, inses, atau materi eksploitasi dan pelecehan seksual anak. Konten tersebut akan dihapus dan Anda akan dilarang."
+    },
+    "harmful": {
+      "title": "Kelompok Berbahaya",
+      "text": "OCSN bukan platform untuk mendukung atau memuji terorisme, kejahatan terorganisir, atau kelompok kebencian."
+    },
+    "activities": {
+      "title": "Aktivitas Ilegal",
+      "text": "Jangan gunakan OCSN untuk aktivitas ilegal seperti memposting revenge porn, menawarkan layanan seksual, membeli atau menjual senjata api, alkohol, dan produk tembakau antar individu pribadi, atau membeli dan menjual obat-obatan ilegal atau resep (bahkan jika legal di wilayah Anda)."
+    }
+  },
+  
+  "respect": {
+    "title": "Menghormati Komunitas",
+    "intro": "Kami berkomitmen untuk mempertahankan lingkungan yang penuh hormat dan aman bagi semua anggota komunitas kami. Memperlakukan orang lain dengan kebaikan dan rasa hormat adalah fundamental bagi nilai-nilai OCSN.",
+    "threats": {
+      "title": "Ancaman Kredibel dan Pelecehan Tertarget",
+      "text": "Kami menghapus konten yang berisi ancaman kredibel atau ujaran kebencian, konten yang menargetkan individu pribadi untuk merendahkan atau mempermalukan mereka, dan informasi pribadi yang dimaksudkan untuk memeras atau melecehkan seseorang. Ini termasuk ancaman kematian, keinginan menyakiti, mendorong bunuh diri, mengancam untuk merilis informasi pribadi, dan kampanye tertarget untuk melaporkan massal atau brigade terhadap pengguna tertentu.",
+      "note": "Kritik konstruktif dan ketidaksepakatan yang penuh hormat disambut di platform kami. Jika Anda menemukan konten yang tidak Anda setujui, Anda selalu dapat memblokir atau berhenti mengikuti pengguna daripada terlibat dalam pelecehan."
+    },
+    "bullying": {
+      "title": "Perundungan dan Pelecehan Terkoordinasi",
+      "text": "Kami memiliki kebijakan nol toleransi untuk perundungan atau pelecehan. Ini termasuk kontak berulang yang tidak diinginkan setelah diminta berhenti, membuat akun khusus untuk melecehkan atau menghindari blokir, berbagi tangkapan layar untuk mengejek atau mempermalukan pengguna lain, dan mendorong orang lain untuk melecehkan atau \"membatalkan\" seseorang.",
+      "consequences": "Akun yang terlibat dalam kampanye pelecehan terkoordinasi akan dilarang secara permanen. Kami menganggap serius kesehatan mental dan keselamatan pengguna kami."
+    },
+    "discrimination": {
+      "title": "Karakteristik Dilindungi dan Ujaran Kebencian",
+      "text": "Tidak pernah boleh mendorong kekerasan atau diskriminasi berdasarkan ras, etnis, asal kebangsaan, jenis kelamin, gender, identitas gender, orientasi seksual, afiliasi agama, disabilitas, atau penyakit. Ini termasuk hinaan, bahasa yang merendahkan, stereotip berbahaya, dan mengejek atau menyerang orang berdasarkan karakteristik yang dilindungi ini.",
+      "positive": "Kami merayakan keberagaman dan mendorong diskusi yang penuh hormat tentang masalah sosial, berbagi pengalaman pribadi, dan konten edukatif yang mempromosikan pemahaman dan inklusi."
+    },
+    "selfharm": {
+      "title": "Menyakiti Diri Sendiri dan Konten Berbahaya",
+      "text": "Pemuliaan menyakiti diri sendiri atau cedera dilarang. Ini termasuk penggambaran grafis atau instruksi untuk menyakiti diri sendiri, mempromosikan gangguan makan, dan metode penurunan berat badan yang berbahaya. Meskipun kami memahami bahwa ekspresi kreatif mungkin menyentuh topik yang sulit, kami harus memprioritaskan keselamatan pengguna.",
+      "support": "Kami mendorong cerita pemulihan, mencari dukungan, dan ekspresi artistik yang tidak memuliakan bahaya. Platform kami adalah tempat untuk penyembuhan dan pertumbuhan.",
+      "helpTitle": "Jika Anda atau seseorang yang Anda kenal membutuhkan bantuan:",
+      "crisisText": "Saluran Teks Krisis: Kirim HOME ke 741741",
+      "suicidePrevention": "Saluran Pencegahan Bunuh Diri Nasional: 988",
+      "internationalHelp": "Bantuan Internasional: Temukan dukungan di negara Anda",
+      "eatingDisorders": "Gangguan Makan: 1-800-931-2237"
+    }
+  },
+  
+  "deception": {
+    "title": "Praktik Terlarang",
+    "impersonation": {
+      "title": "Peniruan Identitas",
+      "text": "Membuat akun atau konten yang meniru orang lain, merek, atau entitas dengan cara yang menyesatkan atau menipu sangat dilarang. Ini termasuk menggunakan nama, gambar, atau informasi pengenal lain seseorang tanpa izin."
+    },
+    "doxxing": {
+      "title": "Doxxing dan Informasi Pribadi",
+      "text": "Jangan pernah membagikan informasi pribadi yang bukan milik Anda. Doxxing - tindakan mempublikasikan informasi pribadi atau identifikasi tentang seseorang tanpa persetujuan mereka - sangat dilarang. Ini termasuk:",
+      "item1": "Nama asli pengguna yang belum membagikannya secara publik",
+      "item2": "Alamat rumah, nomor telepon, atau alamat email",
+      "item3": "Informasi keuangan atau nomor ID pemerintah",
+      "item4": "Foto atau video pribadi tanpa persetujuan",
+      "item5": "Informasi tentang tempat kerja atau sekolah seseorang"
+    },
+    "misinformation": {
+      "title": "Konten Menipu",
+      "text": "Konten menipu atau berita palsu yang bersifat jahat akan dihapus dari OCSN. Ini termasuk sengaja menyebarkan informasi palsu yang dapat menyebabkan kerugian pada individu atau kelompok."
+    },
+    "spam": {
+      "title": "Spam",
+      "text": "Spam dan praktik manipulatif lainnya dilarang. Ini termasuk posting berulang, pesan massal, manipulasi keterlibatan buatan, dan menggunakan OCSN terutama untuk iklan komersial tanpa transparan tentang hal itu."
+    }
+  },
+  
+  "help": {
+    "title": "Laporkan Pelanggaran",
+    "intro": "Setiap dari kita adalah bagian penting dari komunitas OCSN. Jika Anda melihat sesuatu yang menurut Anda mungkin melanggar pedoman kami, tolong bantu kami dengan melaporkannya.",
+    "disagreement": "Anda mungkin menemukan konten yang tidak Anda sukai, tetapi itu tidak melanggar Pedoman Komunitas. Jika itu terjadi, Anda dapat berhenti mengikuti atau memblokir orang yang mempostingnya.",
+    "reporting": {
+      "title": "Cara Melaporkan",
+      "text": "Ketika Anda menyelesaikan laporan, cobalah untuk memberikan informasi sebanyak mungkin — tautan, nama pengguna, dan deskripsi konten — sehingga kami dapat menemukannya dan meninjaunya dengan cepat. Kami mungkin menghapus seluruh posting jika gambar atau keterangan terkait melanggar pedoman kami.",
+      "instructions": "Instruksi pelaporan langkah demi langkah yang terperinci akan segera ditambahkan di sini."
+    },
+    "thanks": "Terima kasih telah membantu kami menciptakan salah satu komunitas paling kreatif dan ramah di dunia!",
+    "signature": "— Tim OCSN"
+  }
+}
