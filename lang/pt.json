@@ -129,8 +129,11 @@
     "disagreement": "Você pode encontrar conteúdo que não é do seu agrado, mas que não viola as Diretrizes da Comunidade. Se isso acontecer, você pode deixar de seguir ou bloquear a pessoa que o postou.",
     "reporting": {
       "title": "Como Denunciar",
-      "text": "Quando você completar a denúncia, tente fornecer o máximo de informações possível — links, nomes de usuário e descrições do conteúdo — para que possamos encontrá-lo e revisá-lo rapidamente. Podemos remover postagens inteiras se as imagens ou legendas associadas violarem nossas diretrizes.",
-      "instructions": "Instruções detalhadas passo a passo para denúncias serão adicionadas aqui em breve."
+      "text": "Para denunciar conteúdo que viola nossas diretrizes, siga estes passos:",
+      "step1": "Encontre a postagem que você deseja denunciar",
+      "step2": "Clique no ícone \"...\" na postagem",
+      "step3": "Selecione \"Denunciar Conteúdo\"",
+      "note": "A postagem será automaticamente marcada para revisão pelo nosso algoritmo de moderação e desenvolvedores. Podemos remover postagens inteiras se as imagens ou legendas associadas violarem nossas diretrizes."
     },
     "thanks": "Obrigado por nos ajudar a criar uma das comunidades mais criativas e acolhedoras do mundo!",
     "signature": "— A Equipe OCSN"

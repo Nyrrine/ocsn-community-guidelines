@@ -101,19 +101,20 @@ class LanguageManager {
         const newLangBtn = langBtn.cloneNode(true);
         langBtn.parentNode.replaceChild(newLangBtn, langBtn);
         let dropdown = document.querySelector('.language-dropdown');
-        if (!dropdown) {
-            dropdown = document.createElement('div');
-            dropdown.className = 'language-dropdown';
-            dropdown.innerHTML = this.supportedLanguages.map(lang => `
-                <div class="language-option" data-lang="${lang.code}">
-                    <span class="lang-flag">${lang.flag}</span>
-                    <span class="lang-name">${lang.name}</span>
-                    ${lang.code === this.currentLang ? '<i data-lucide="check" class="lang-check"></i>' : ''}
-                </div>
-            `).join('');
-            newLangBtn.style.position = 'relative';
-            newLangBtn.appendChild(dropdown);
+        if (dropdown) {
+            dropdown.remove();
         }
+        dropdown = document.createElement('div');
+        dropdown.className = 'language-dropdown';
+        dropdown.innerHTML = this.supportedLanguages.map(lang => `
+            <div class="language-option" data-lang="${lang.code}">
+                <span class="lang-flag">${lang.flag}</span>
+                <span class="lang-name">${lang.name}</span>
+                ${lang.code === this.currentLang ? '<i data-lucide="check" class="lang-check"></i>' : ''}
+            </div>
+        `).join('');
+        newLangBtn.style.position = 'relative';
+        newLangBtn.appendChild(dropdown);
         newLangBtn.addEventListener('click', (e) => {
             e.stopPropagation();
             dropdown.classList.toggle('show');

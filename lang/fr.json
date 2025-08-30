@@ -129,8 +129,11 @@
     "disagreement": "Vous pouvez trouver du contenu dont vous n'êtes pas fan, mais qui ne viole pas les Directives Communautaires. Si cela se produit, vous pouvez ne plus suivre ou bloquer la personne qui l'a publié.",
     "reporting": {
       "title": "Comment Signaler",
-      "text": "Lorsque vous complétez le rapport, essayez de fournir autant d'informations que possible — liens, noms d'utilisateur et descriptions du contenu — afin que nous puissions le trouver et l'examiner rapidement. Nous pouvons supprimer des publications entières si les images ou les légendes associées violent nos directives.",
-      "instructions": "Des instructions détaillées de signalement étape par étape seront ajoutées ici bientôt."
+      "text": "Pour signaler du contenu qui viole nos directives, suivez ces étapes :",
+      "step1": "Trouvez la publication que vous souhaitez signaler",
+      "step2": "Cliquez sur l'icône \"...\" sur la publication",
+      "step3": "Sélectionnez \"Signaler le Contenu\"",
+      "note": "La publication sera automatiquement marquée pour révision par notre algorithme de modération et nos développeurs. Nous pouvons supprimer des publications entières si les images ou les légendes associées violent nos directives."
     },
     "thanks": "Merci de nous aider à créer l'une des communautés les plus créatives et accueillantes au monde !",
     "signature": "— L'Équipe OCSN"

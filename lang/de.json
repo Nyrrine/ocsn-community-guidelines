@@ -129,8 +129,11 @@
     "disagreement": "Sie können Inhalte finden, die Ihnen nicht gefallen, aber die Community-Richtlinien nicht verletzen. In diesem Fall können Sie die Person, die sie gepostet hat, entfolgen oder blockieren.",
     "reporting": {
       "title": "Wie man meldet",
-      "text": "Wenn Sie die Meldung abschließen, versuchen Sie, so viele Informationen wie möglich bereitzustellen — Links, Benutzernamen und Beschreibungen des Inhalts — damit wir ihn schnell finden und überprüfen können. Wir können ganze Beiträge entfernen, wenn entweder die Bilder oder die zugehörigen Bildunterschriften gegen unsere Richtlinien verstoßen.",
-      "instructions": "Detaillierte Schritt-für-Schritt-Anweisungen zur Meldung werden hier bald hinzugefügt."
+      "text": "Um Inhalte zu melden, die gegen unsere Richtlinien verstoßen, befolgen Sie diese Schritte:",
+      "step1": "Finden Sie den Beitrag, den Sie melden möchten",
+      "step2": "Klicken Sie auf das \"...\"-Symbol beim Beitrag",
+      "step3": "Wählen Sie \"Inhalt melden\"",
+      "note": "Der Beitrag wird automatisch zur Überprüfung durch unseren Moderationsalgorithmus und unsere Entwickler markiert. Wir können ganze Beiträge entfernen, wenn entweder die Bilder oder die zugehörigen Bildunterschriften gegen unsere Richtlinien verstoßen."
     },
     "thanks": "Vielen Dank, dass Sie uns helfen, eine der kreativsten und einladendsten Communities der Welt zu schaffen!",
     "signature": "— Das OCSN-Team"

@@ -129,8 +129,11 @@
     "disagreement": "You may find content you're not a fan of, but that doesn't violate the Community Guidelines. If that happens, you can unfollow or block the person who posted it.",
     "reporting": {
       "title": "How to Report",
-      "text": "When you complete the report, try to provide as much information as possible — links, usernames, and descriptions of the content — so we can find and review it quickly. We may remove entire posts if either the imagery or associated captions violate our guidelines.",
-      "instructions": "Detailed step-by-step reporting instructions will be added here soon."
+      "text": "To report content that violates our guidelines, follow these steps:",
+      "step1": "Find the post you want to report",
+      "step2": "Click the \"...\" icon on the post",
+      "step3": "Select \"Report Content\"",
+      "note": "The post will be automatically flagged for our moderation algorithm and developers to review. We may remove entire posts if either the imagery or associated captions violate our guidelines."
     },
     "thanks": "Thank you for helping us create one of the most creative and welcoming communities in the world!",
     "signature": "— The OCSN Team"

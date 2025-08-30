@@ -129,8 +129,11 @@
     "disagreement": "Puedes encontrar contenido que no te guste, pero que no viola las Directrices de la Comunidad. Si eso sucede, puedes dejar de seguir o bloquear a la persona que lo publicó.",
     "reporting": {
       "title": "Cómo Reportar",
-      "text": "Cuando completes el reporte, trata de proporcionar tanta información como sea posible — enlaces, nombres de usuario y descripciones del contenido — para que podamos encontrarlo y revisarlo rápidamente. Podemos eliminar publicaciones completas si las imágenes o los subtítulos asociados violan nuestras directrices.",
-      "instructions": "Las instrucciones detalladas paso a paso para reportar se agregarán aquí pronto."
+      "text": "Para reportar contenido que viola nuestras directrices, sigue estos pasos:",
+      "step1": "Encuentra la publicación que quieres reportar",
+      "step2": "Haz clic en el ícono \"...\" en la publicación",
+      "step3": "Selecciona \"Reportar Contenido\"",
+      "note": "La publicación será automáticamente marcada para que nuestro algoritmo de moderación y desarrolladores la revisen. Podemos eliminar publicaciones completas si las imágenes o los subtítulos asociados violan nuestras directrices."
     },
     "thanks": "¡Gracias por ayudarnos a crear una de las comunidades más creativas y acogedoras del mundo!",
     "signature": "— El Equipo OCSN"

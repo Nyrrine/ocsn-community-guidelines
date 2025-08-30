@@ -129,8 +129,11 @@
     "disagreement": "Anda mungkin menemukan konten yang tidak Anda sukai, tetapi itu tidak melanggar Pedoman Komunitas. Jika itu terjadi, Anda dapat berhenti mengikuti atau memblokir orang yang mempostingnya.",
     "reporting": {
       "title": "Cara Melaporkan",
-      "text": "Ketika Anda menyelesaikan laporan, cobalah untuk memberikan informasi sebanyak mungkin — tautan, nama pengguna, dan deskripsi konten — sehingga kami dapat menemukannya dan meninjaunya dengan cepat. Kami mungkin menghapus seluruh posting jika gambar atau keterangan terkait melanggar pedoman kami.",
-      "instructions": "Instruksi pelaporan langkah demi langkah yang terperinci akan segera ditambahkan di sini."
+      "text": "Untuk melaporkan konten yang melanggar pedoman kami, ikuti langkah-langkah ini:",
+      "step1": "Temukan posting yang ingin Anda laporkan",
+      "step2": "Klik ikon \"...\" pada posting tersebut",
+      "step3": "Pilih \"Laporkan Konten\"",
+      "note": "Posting akan secara otomatis ditandai untuk ditinjau oleh algoritma moderasi dan pengembang kami. Kami mungkin menghapus seluruh posting jika gambar atau keterangan terkait melanggar pedoman kami."
     },
     "thanks": "Terima kasih telah membantu kami menciptakan salah satu komunitas paling kreatif dan ramah di dunia!",
     "signature": "— Tim OCSN"

@@ -129,8 +129,11 @@
     "disagreement": "Maaari kang makahanap ng nilalaman na hindi mo gusto, ngunit hindi lumalabag sa Mga Alituntunin ng Komunidad. Kung mangyari ito, maaari mong i-unfollow o i-block ang taong nag-post nito.",
     "reporting": {
       "title": "Paano Mag-ulat",
-      "text": "Kapag kumpleto mo ang ulat, subukang magbigay ng maraming impormasyon hangga't maaari — mga link, username, at mga paglalarawan ng nilalaman — upang mabilis naming mahanap at masuri ito. Maaari naming tanggalin ang buong post kung ang mga larawan o mga nauugnay na caption ay lumalabag sa aming mga alituntunin.",
-      "instructions": "Ang detalyadong hakbang-hakbang na mga tagubilin sa pag-uulat ay malapit nang idagdag dito."
+      "text": "Upang mag-ulat ng nilalaman na lumalabag sa aming mga alituntunin, sundin ang mga hakbang na ito:",
+      "step1": "Hanapin ang post na gusto mong iulat",
+      "step2": "I-click ang icon na \"...\" sa post",
+      "step3": "Piliin ang \"I-ulat ang Nilalaman\"",
+      "note": "Ang post ay awtomatikong matatag para sa pagsusuri ng aming moderation algorithm at mga developer. Maaari naming tanggalin ang buong post kung ang mga larawan o mga nauugnay na caption ay lumalabag sa aming mga alituntunin."
     },
     "thanks": "Salamat sa pagtulong sa amin na lumikha ng isa sa pinaka-creative at malugod na komunidad sa mundo!",
     "signature": "— Ang OCSN Team"
