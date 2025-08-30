@@ -3,7 +3,7 @@
 Official community guidelines website for OCSN (OC Social Network).
 
 ## Live Site
-https://github.com/Nyrrine/ocsn-community-guidelines
+https://nyrrine.github.io/ocsn-community-guidelines
 
 ## About
 This website contains the community guidelines and safety standards for OCSN, a social network for fandoms and original characters.
@@ -11,7 +11,7 @@ This website contains the community guidelines and safety standards for OCSN, a 
 ## Features
 - Support for other languages (AR, DE, EN, ES, FR, ID, JA, KO, PT, RU, TL, CN)
 - Search functionality (Can parse similar info, not perfect but does the job)
-- I am still adding some fancy SEO stuff so people can google our rules easily, give me a while as I figure it out.
+- SEO (sitemap.xml, robots.txt, rich meta tags, JSON-LD, canonical urls, etc. its all in in a dedicated /seo folder)
 
 ## Contact
 For issues with this website, contact me on Discord.

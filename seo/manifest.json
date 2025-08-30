@@ -1,0 +1,21 @@
+{
+  "name": "OCSN Community Guidelines",
+  "short_name": "OCSN Guidelines",
+  "description": "Community guidelines and safety standards for OCSN, a social network for fandoms and original characters",
+  "start_url": "/ocsn-community-guidelines/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/ocsn-community-guidelines/assets/appicon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["social", "education", "reference"]
+}

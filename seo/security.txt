@@ -1,0 +1,4 @@
+Contact: Discord (Nyrrine)
+Expires: 2026-01-30T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://nyrrine.github.io/ocsn-community-guidelines/seo/security.txt
