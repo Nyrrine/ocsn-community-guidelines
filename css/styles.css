@@ -646,6 +646,11 @@ p {
     }
     .search-container {
         max-width: 100%;
+        min-width: 200px;
+        padding: 10px 16px;
+    }
+    .search-container input {
+        font-size: 15px;
     }
     .language-btn span {
         display: none;
@@ -676,7 +681,11 @@ p {
         gap: 12px;
     }
     .search-container {
-        min-width: 120px;
+        min-width: 180px;
+        padding: 10px 14px;
+    }
+    .search-container input {
+        font-size: 16px;
     }
     .search-dropdown {
         position: fixed;
@@ -739,6 +748,7 @@ p {
     background: none;
     border: none;
     cursor: pointer;
+    color: var(--primary-black);
 }
 @media (max-width: 1024px) {
     .mobile-menu-toggle {

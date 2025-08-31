@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     initializeExpandableContent();
     initializeMobileMenu();
     initializeSmoothScroll();
+    initializeEasterEgg();
 });
 function initializeSidebar() {
     const navItems = document.querySelectorAll('.nav-item.expandable');
@@ -351,6 +352,115 @@ function initializeExpandableContent() {
         });
     });
 }
+function initializeEasterEgg() {
+    const logo = document.querySelector('.logo');
+    if (!logo) return;
+    
+    let clickCount = 0;
+    let clickTimer = null;
+    
+    logo.style.cursor = 'pointer';
+    
+    logo.addEventListener('click', (e) => {
+        e.preventDefault();
+        clickCount++;
+        
+        if (clickTimer) clearTimeout(clickTimer);
+        
+        clickTimer = setTimeout(() => {
+            clickCount = 0;
+        }, 10000);
+        
+        if (clickCount === 5) {
+            clickCount = 0;
+            clearTimeout(clickTimer);
+            
+            const existingEasterEgg = document.querySelector('.easter-egg-container');
+            if (existingEasterEgg) return;
+            
+            const container = document.createElement('div');
+            container.className = 'easter-egg-container';
+            container.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 9999;
+                pointer-events: none;
+            `;
+            
+            const img = document.createElement('img');
+            img.src = './assets/frappppperchino.png';
+            img.style.cssText = `
+                max-width: 80%;
+                max-height: 80%;
+                object-fit: contain;
+                animation: ominousFadeIn 2s ease-in-out, ominousFloat 4s ease-in-out infinite;
+                filter: drop-shadow(0 0 30px rgba(0, 0, 0, 0.8));
+            `;
+            
+            const style = document.createElement('style');
+            style.textContent = `
+                @keyframes ominousFadeIn {
+                    0% {
+                        opacity: 0;
+                        transform: scale(0.5) rotate(-10deg);
+                    }
+                    50% {
+                        opacity: 1;
+                        transform: scale(1.1) rotate(5deg);
+                    }
+                    100% {
+                        opacity: 1;
+                        transform: scale(1) rotate(0deg);
+                    }
+                }
+                
+                @keyframes ominousFloat {
+                    0%, 100% {
+                        transform: translateY(0) scale(1);
+                    }
+                    25% {
+                        transform: translateY(-20px) scale(1.02) rotate(2deg);
+                    }
+                    75% {
+                        transform: translateY(20px) scale(0.98) rotate(-2deg);
+                    }
+                }
+                
+                @keyframes ominousFadeOut {
+                    0% {
+                        opacity: 1;
+                        transform: scale(1) rotate(0deg);
+                    }
+                    100% {
+                        opacity: 0;
+                        transform: scale(1.5) rotate(20deg);
+                        filter: blur(10px) drop-shadow(0 0 50px rgba(0, 0, 0, 1));
+                    }
+                }
+            `;
+            
+            document.head.appendChild(style);
+            container.appendChild(img);
+            document.body.appendChild(container);
+            
+            setTimeout(() => {
+                img.style.animation = 'ominousFadeOut 1.5s ease-in-out forwards';
+                
+                setTimeout(() => {
+                    container.remove();
+                    style.remove();
+                }, 1500);
+            }, 5000);
+        }
+    });
+}
+
 function initializeMobileMenu() {
     const mobileToggle = document.createElement('button');
     mobileToggle.className = 'mobile-menu-toggle';
