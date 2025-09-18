@@ -2,8 +2,8 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square150x150logo src="/ocsn-community-guidelines/assets/appicon.webp"/>
-      <TileColor>#000000</TileColor>
+      <square150x150logo src="/ocsn-community-guidelines/assets/OCSNLOGO.png"/>
+      <TileColor>#479bea</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
